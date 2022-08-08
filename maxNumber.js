@@ -35,7 +35,7 @@ const result2 = getMax2(jim, dela, chinku);
 console.log(result2);
 
 
-/* Here is the another way to find max number using Math.max() method */
+/* Here is the another way to find max number using Math.max() method  */
 
 const result3 = Math.max(jim, dela, chinku);
 console.log(result3);
